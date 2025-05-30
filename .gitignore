@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Python
+venv/
+__pycache__/
+
+# Secrets
+.env
+
+# Compiled Solidity
+*.json
+build/
